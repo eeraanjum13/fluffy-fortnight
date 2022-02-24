@@ -1,4 +1,6 @@
 PetImages/
 data/
+ml-latest-small/
 ner_sent.json
 break.ipynb
+ml-latest-small.zip
